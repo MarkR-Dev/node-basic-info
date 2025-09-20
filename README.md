@@ -7,4 +7,4 @@ A basic site to practice vanilla node.js server concepts.
 - Using fs module to read a file
 - Dynamically sending html files as responses back to the browser
 
-Later updated to begin using the Express framwork to accomplish the same task.
+Later updated to begin using the Express framework to accomplish the same task.
