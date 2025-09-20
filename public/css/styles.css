@@ -1,0 +1,15 @@
+body {
+  background-color: darkslategray;
+  color: white;
+  text-align: center;
+  font-family: monospace;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+a {
+  color: inherit;
+  font-size: 1.2rem;
+}
